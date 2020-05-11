@@ -3,5 +3,6 @@ import { handleSubmit } from './js/formHandler'
 
 console.log(checkForName);
 
-alert("I EXIST")
+alert("This is last cmd")
 console.log("CHANGE!!");
+
