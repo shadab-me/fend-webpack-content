@@ -3,6 +3,6 @@ import { handleSubmit } from './js/formHandler'
 
 console.log(checkForName);
 
-alert("This is last cmd")
+alert("Done")
 console.log("CHANGE!!");
 
