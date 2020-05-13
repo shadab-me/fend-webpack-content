@@ -1,8 +1,8 @@
 import { checkForName } from './js/nameChecker'
 import { handleSubmit } from './js/formHandler'
-
+import './main.scss';
 console.log(checkForName);
 
-alert("Done")
+alert("Hello I am super hero")
 console.log("CHANGE!!");
 
