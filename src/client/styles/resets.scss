@@ -2,7 +2,7 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-$primary-color: pink;
+
 * {
     box-sizing: border-box;
 }
@@ -52,7 +52,4 @@ table {
 }
 ul {
     list-style-type: none;
-}
-body{
-	background-color: $primary-color;
 }
